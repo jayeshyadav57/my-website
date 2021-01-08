@@ -1,0 +1,48 @@
+.container{
+    background-color: rgb(140, 238, 255);
+    height: auto;
+}
+h1{
+    margin-top: 0%;
+    font-family: 'Dancing Script', cursive;
+}
+body{
+    text-align: center;
+    margin: 0%;
+    font-family: sans-serif;
+}
+span{
+    text-decoration-line: underline;
+}
+.mountain{
+    width: 800px;
+    height: 450px;
+}
+.bottom-cloud{
+    position:absolute;
+    width: 150px;
+    left: 430px;
+}
+.top-cloud{
+    position: relative;
+    left: 200px;
+    width: 150px;
+}
+.container{
+    padding-top: 80px;
+}
+hr{
+    margin: 0px;
+}
+.img{
+    margin-top: 20px;
+}
+.img2{
+    width: 450px;
+}
+.img3{
+    margin-top: 10px;
+    width: 400px;
+    background-color: black;
+    border-radius: 100%;
+}
